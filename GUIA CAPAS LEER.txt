@@ -1,0 +1,10 @@
+ecorregiones_cuerno -> Capa vectorial de la modelización del noreste de África dividida por biomas. 
+
+nat_biomes_high -> Capa vectorial de las zonas de alta probabilidad de la modelización del noreste de África. 
+
+nat_biomes_punts -> Capa vectorial de la modelización del noreste de África dividida por biomas con el número de ocurrencias que entran por bioma
+
+ricino_nat -> Ocurrencias del noreste de África empleadas para modelizar (https://doi.org/10.15468/dl.ha6t6x)
+
+
+
